@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		16543A202318450900802B78 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16543A1F2318450900802B78 /* CustomTableViewCell.swift */; };
 		16AC60082316C0CA0047D330 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16AC60072316C0CA0047D330 /* AppDelegate.swift */; };
 		16AC600D2316C0CA0047D330 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16AC600B2316C0CA0047D330 /* Main.storyboard */; };
 		16AC600F2316C0CA0047D330 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16AC600E2316C0CA0047D330 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		16543A1F2318450900802B78 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		16AC60042316C0CA0047D330 /* MyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16AC60072316C0CA0047D330 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		16AC600C2316C0CA0047D330 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				16AC60072316C0CA0047D330 /* AppDelegate.swift */,
 				16AC60192316C5890047D330 /* MainViewController.swift */,
 				16AC600B2316C0CA0047D330 /* Main.storyboard */,
+				16543A1F2318450900802B78 /* CustomTableViewCell.swift */,
 				16AC600E2316C0CA0047D330 /* Assets.xcassets */,
 				16AC60102316C0CA0047D330 /* LaunchScreen.storyboard */,
 				16AC60132316C0CA0047D330 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16543A202318450900802B78 /* CustomTableViewCell.swift in Sources */,
 				16AC60082316C0CA0047D330 /* AppDelegate.swift in Sources */,
 				16AC601A2316C5890047D330 /* MainViewController.swift in Sources */,
 			);
